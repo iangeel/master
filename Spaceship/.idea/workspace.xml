@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8954801d-138b-4a03-9bd9-2974d9701d56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spaceship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InitializingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExceptionTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/InitializingTestsSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SpaceshipTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Spaceship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Spaceship.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,29 +21,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7" />
+            <state relative-caret-position="288">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Spaceship.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="630">
+              <caret line="35" column="93" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="93" />
               <folding>
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
                 <element signature="e#582#583#0" expanded="true" />
                 <element signature="e#609#610#0" expanded="true" />
                 <element signature="e#649#650#0" expanded="true" />
                 <element signature="e#681#682#0" expanded="true" />
                 <element signature="e#724#725#0" expanded="true" />
                 <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#815#816#0" expanded="true" />
-                <element signature="e#859#860#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SpaceshipTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="77" column="99" lean-forward="true" selection-start-line="77" selection-start-column="99" selection-end-line="77" selection-end-column="99" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#238#246#0" expanded="true" />
+                <element signature="e#917#925#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/InitializingTestsSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ExceptionTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -46,9 +89,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>passanger</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -57,7 +106,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Apolo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Spaceship.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExceptionTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/InitializingTestsSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ExceptionTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SpaceshipTest.java" />
       </list>
     </option>
   </component>
@@ -98,6 +152,19 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Spaceship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spaceship" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spaceship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spaceship" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -107,8 +174,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579373459385" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579376310543" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,6 +193,65 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ExceptionTestSuite">
+    <configuration name="ExceptionTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spaceship" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitializingTestsSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spaceship" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InitializingTestsSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceshipTest.setPassangers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spaceship" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpaceshipTest" />
+      <option name="METHOD_NAME" value="setPassangers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceshipTest.whenCapacityIsTooLargeExceptionWillBeThrownInConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spaceship" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpaceshipTest" />
+      <option name="METHOD_NAME" value="whenCapacityIsTooLargeExceptionWillBeThrownInConstructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceshipTest.whenSetTooLargeListOfPassangersAnExceptionWillBeThrown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spaceship" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpaceshipTest" />
+      <option name="METHOD_NAME" value="whenSetTooLargeListOfPassangersAnExceptionWillBeThrown" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExceptionTestSuite" />
+        <item itemvalue="JUnit.InitializingTestsSuite" />
+        <item itemvalue="JUnit.SpaceshipTest.whenSetTooLargeListOfPassangersAnExceptionWillBeThrown" />
+        <item itemvalue="JUnit.SpaceshipTest.whenCapacityIsTooLargeExceptionWillBeThrownInConstructor" />
+        <item itemvalue="JUnit.SpaceshipTest.setPassangers" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -135,23 +266,55 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SpaceshipTest_setPassangers - 2020.01.18 at 11h 19m 13s.xml">
+      <configuration name="SpaceshipTest.setPassangers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpaceshipTest_whenCapacityIsTooLargeExceptionWillBeThrownInConstructor - 2020.01.18 at 11h 22m 29s.xml">
+      <configuration name="SpaceshipTest.whenCapacityIsTooLargeExceptionWillBeThrownInConstructor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpaceshipTest_whenCapacityIsTooLargeExceptionWillBeThrownInConstructor - 2020.01.18 at 11h 22m 40s.xml">
+      <configuration name="SpaceshipTest.whenCapacityIsTooLargeExceptionWillBeThrownInConstructor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpaceshipTest_whenSetTooLargeListOfPassangersAnExceptionWillBeThrown - 2020.01.18 at 11h 25m 19s.xml">
+      <configuration name="SpaceshipTest.whenSetTooLargeListOfPassangersAnExceptionWillBeThrown" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpaceshipTest_whenSetTooLargeListOfPassangersAnExceptionWillBeThrown - 2020.01.18 at 11h 25m 26s.xml">
+      <configuration name="SpaceshipTest.whenSetTooLargeListOfPassangersAnExceptionWillBeThrown" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpaceshipTest_whenSetTooLargeListOfPassangersAnExceptionWillBeThrown - 2020.01.18 at 11h 25m 34s.xml">
+      <configuration name="SpaceshipTest.whenSetTooLargeListOfPassangersAnExceptionWillBeThrown" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitializingTestsSuite - 2020.01.18 at 11h 33m 57s.xml">
+      <configuration name="InitializingTestsSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionTestSuite - 2020.01.18 at 11h 34m 22s.xml">
+      <configuration name="ExceptionTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionTestSuite - 2020.01.18 at 11h 34m 42s.xml">
+      <configuration name="ExceptionTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionTestSuite - 2020.01.18 at 11h 34m 50s.xml">
+      <configuration name="ExceptionTestSuite" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972437" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32917964" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32917964" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -167,26 +330,70 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExceptionTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7" />
+        <state>
+          <caret selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InitializingTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/InitializingTestsSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Spaceship.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="630">
+          <caret line="35" column="93" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="93" />
           <folding>
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
             <element signature="e#582#583#0" expanded="true" />
             <element signature="e#609#610#0" expanded="true" />
             <element signature="e#649#650#0" expanded="true" />
             <element signature="e#681#682#0" expanded="true" />
             <element signature="e#724#725#0" expanded="true" />
             <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-            <element signature="e#859#860#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SpaceshipTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="77" column="99" lean-forward="true" selection-start-line="77" selection-start-column="99" selection-end-line="77" selection-end-column="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#238#246#0" expanded="true" />
+            <element signature="e#917#925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExceptionTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>

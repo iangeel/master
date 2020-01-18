@@ -31,7 +31,9 @@ public class Spaceship {
         return passangers;
     }
 
-    public void setPassangers(List<String> passangers) {
+    public void setPassangers(List<String> passangers) throws Exception {
+        if(passangers.size() > CAPACITY)
+            throw new Exception("There are enough resources only for " + CAPACITY + " people.");
         this.passangers = passangers;
     }
 }
